@@ -2,6 +2,12 @@
 
 ScreenGlide is a Chrome extension that allows you to quickly capture and save screenshots directly in your browser's local storage. With ScreenGlide, you can easily capture and organize your screenshots without the need for external applications or cloud storage.
 
+
+## Demo
+
+![ScreenGlide Demo](assets/screenglide2.gif)
+
+
 ## Features
 
 - Capture screenshots with a simple keyboard shortcut (Cmd+Shift+L on Mac, Ctrl+Shift+L on Windows/Linux)
@@ -44,3 +50,5 @@ ScreenGlide is released under the MIT License. See the [LICENSE](LICENSE) file f
 If you encounter any issues or have questions, please [open an issue](https://github.com/sksareen/screenglide/issues) on the GitHub repository.
 
 Thank you for using ScreenGlide!
+
+![ScreenGlide Demo](assets/screenglide1.gif)
