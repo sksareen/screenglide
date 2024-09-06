@@ -29,6 +29,12 @@ ScreenGlide is a Chrome extension that allows you to quickly capture and save sc
 - Alternatively, click the ScreenGlide icon in the Chrome toolbar to capture a screenshot.
 - Access your saved screenshots by clicking on the ScreenGlide icon and selecting "View Screenshots" from the popup menu.
 
+## Next Steps
+
+- Remove any styling overlays from screenshot images
+- Enable 'send to AI with prompt' to send saved screenshots to ChatGPT, Claude AI etc.
+- Include a custom prompt to analyze, iterate, or build on top of the image contents
+
 ## Contributing
 
 We welcome contributions to ScreenGlide! If you'd like to contribute, please follow these steps:
